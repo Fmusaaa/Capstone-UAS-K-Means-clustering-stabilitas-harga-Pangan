@@ -22,7 +22,7 @@ Proyek ini membangun pipeline machine learning end-to-end yang mengelompokkan 25
 ## Struktur Repository
 
 ```
-capstone-project-data-mining/
+Capstone-UAS-K-Means-clustering-stabilitas-harga-Pangan/
 ├── data/
 │   ├── raw/                      # 3 CSV asli (KV, CPPD, sertifikat JKP)
 │   └── processed/                # dataset_pangan_terintegrasi.csv, hasil_clustering.csv
